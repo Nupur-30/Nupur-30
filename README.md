@@ -2,6 +2,7 @@
 <h3 align="center">A passionate and enthusiastic full-stack web developer</h3>
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Girl coding" width="100%" height="300">
 
+<img align="right" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg?size=626&ext=jpg&ga=GA1.2.959560677.1702870943&semt=ais">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur-30&label=Profile%20views&color=0e75b6&style=flat" alt="nupur-30" /> </p>
 
 - 🌱 I’m currently learning **JavaSript, ReactJS, NodeJS**
