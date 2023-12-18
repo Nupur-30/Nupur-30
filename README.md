@@ -1,6 +1,5 @@
+<h1>Hello, I'm Nupur! 👋👩‍💻 </h1>
 ![logo](https://github.com/Nupur-30/Nupur-30/blob/main/github_banner.png)
-<h1 align="center">Hello, I'm Nupur! 👋👩‍💻 </h1>
-<h3 align="center">A passionate and enthusiastic full-stack web developer</h3>
 
 <img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/readme_image.png" width=350 height=400>
 
