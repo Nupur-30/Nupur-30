@@ -1,8 +1,8 @@
-![logo](https://github.com/Nupur-30/Nupur-30/blob/main/Github%20Banner.png)
+![logo](https://github.com/Nupur-30/Nupur-30/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Nupur Mehlawat</h1>
 <h3 align="center">A passionate and enthusiastic full-stack web developer</h3>
 
-<img align="right" alt="girl coding" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg?size=626&ext=jpg&ga=GA1.2.959560677.1702870943&semt=ais">
+<img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/readme_image.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur-30&label=Profile%20views&color=0e75b6&style=flat" alt="nupur-30" /> </p>
 
