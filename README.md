@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur-30&label=Profile%20views&color=0e75b6&style=flat" alt="nupur-30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nupur-30" alt="nupur-30" /></a> </p>
-
-- 🌱 I’m currently learning **JS, ReactJS, NodeJS**
+- 🌱 I’m currently learning **JavaSript, ReactJS, NodeJS**
 
 - 💬 Ask me about **Web development**
 
