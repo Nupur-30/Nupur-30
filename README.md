@@ -1,7 +1,6 @@
 <h1>Hello, I'm Nupur! 👋👩‍💻 </h1>
 <img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/github_banner%20(1).png" width=100% height=300>
 </br>
-<img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/readme_image.png" width=350 height=250>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur-30&label=Profile%20views&color=0e75b6&style=flat" alt="nupur-30" /> </p>
 
