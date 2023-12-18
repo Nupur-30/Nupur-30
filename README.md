@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nupur Mehlawat</h1>
 <h3 align="center">A passionate and enthusiastic full-stack web developer</h3>
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Girl coding" width="100%" height="600">
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Girl coding" width="100%" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur-30&label=Profile%20views&color=0e75b6&style=flat" alt="nupur-30" /> </p>
 
