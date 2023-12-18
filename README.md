@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nupur Mehlawat</h1>
 <h3 align="center">A passionate and enthusiastic full-stack web developer</h3>
 
-<img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/readme_image.png">
+<img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/readme_image.png" width=200 height=250>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupur-30&label=Profile%20views&color=0e75b6&style=flat" alt="nupur-30" /> </p>
 
