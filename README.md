@@ -2,7 +2,7 @@
 <img align="right" alt="girl coding" src="https://github.com/Nupur-30/Nupur-30/blob/main/github_banner.png" width=100% height=33%>
 
 ## 💫 About Me:
-🌱 I’m currently learning JavaSript, ReactJS, NodeJS<br>💬 Ask me about Web development<br>📫 How to reach me nupurmehlawat@gmail.com<br>👯 I’m ready to collaborate on any web dev related projects<br>⚡ Fun fact about me- I am kinda funny (atleast this is what I think)
+🌱 I’m currently learning JavaSript, ReactJS, NodeJS<br>💬<br> Ask me about Web development<br>📫 How to reach me nupurmehlawat@gmail.com<br>👯 I’m ready to collaborate on any web dev related projects<br>⚡ Fun fact about me- I am kinda funny (atleast this is what I think)
 
 
 ## 🌐 Socials:
@@ -18,9 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nupur-30&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nupur-30&icon=5&color=12)](https://visitcount.itsvg.in)
