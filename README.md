@@ -48,6 +48,7 @@
           <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         </a>
       </p>
+      <br>
     </td>
     <td>
       <h3 align="center">Tools & Platforms</h3>
@@ -68,9 +69,11 @@
           <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white">
         </a>
       </p>
+      <br>
     </td>
   </tr>
-  <tr style="height:50%">
+  <br>
+  <tr>
     <td>
       <h3 align="center">Backend Development</h3>
       <p align="center">
@@ -81,6 +84,7 @@
           <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
         </a>
       </p>
+      <br>
     </td>
     <td>
       <h3 align="center">Data Science & Analysis</h3>
@@ -101,6 +105,7 @@
           <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
         </a> -->
       </p>
+      <br>
     </td>
   </tr>
   <tr>
@@ -117,6 +122,7 @@
           <img alt="SQL" src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
         </a>
       </p>
+      <br>
     </td>
     <td>
       <h3 align="center">DevOps & Deployment</h3>
@@ -128,6 +134,7 @@
           <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
         </a>
       </p>
+      <br>
     </td>
   </tr>
 </table>
